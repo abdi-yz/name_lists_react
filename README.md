@@ -13,4 +13,3 @@ This is a **React app** built using **Vite** that displays a list of group membe
    ```sh
    git clone https://github.com/your-username/group-members-app.git
  ```
-![image](https://github.com/user-attachments/assets/40089297-4a81-4128-b211-1de2d89db60c)
