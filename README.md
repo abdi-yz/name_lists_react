@@ -11,5 +11,5 @@ This is a **React app** built using **Vite** that displays a list of group membe
 ## 📦 Installation & Setup  
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/your-username/group-members-app.git
+   git clone https://github.com/abdi-yz/group-members-app.git
  ```
